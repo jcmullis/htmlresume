@@ -105,6 +105,17 @@ p {
 	color: #cf8a05;
 }
 
+.counter {
+	padding: 10px 0;
+	background-color: #cf8a05;
+	text-align: center;
+}
+
+.counter p {
+	margin-bottom: 0;
+	color: #fff;
+}
+
 
 section {
 	border-top: 1px solid #dedede;
